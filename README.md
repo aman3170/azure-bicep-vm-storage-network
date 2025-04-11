@@ -24,6 +24,6 @@ Resources Deployed
 - Public IP + NIC + VM (Windows Server)
 - Azure Storage Account + Blob Container
 
+# Output on Azure Web Portal
 
-
-<img width="1138" alt="image" src="https://github.com/user-attachments/assets/56c6325a-0c71-4b72-8a37-912181d07371" />
+<img width="1138" alt="Screenshot 2025-04-11 at 3 45 29 PM" src="https://github.com/user-attachments/assets/8a36e92e-5a33-4e7a-8d41-f836e02999e7" />
